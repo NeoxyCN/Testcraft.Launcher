@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Testcraft.Launcher"
         mc:Ignorable="d"
-        Title="MainWindow" Height="640" Width="1024" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+        Title="Testcraft Launcher" Height="640" Width="1024" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
     <Grid>
         <Image x:Name="image_background" HorizontalAlignment="Left" VerticalAlignment="Top" Source="/background.jpg" Stretch="Fill"/>
 
